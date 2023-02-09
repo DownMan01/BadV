@@ -1,4 +1,4 @@
 # BadV
 
 
-Bad Vibes Website Under Contruction
+BadVs Website Under Contruction
